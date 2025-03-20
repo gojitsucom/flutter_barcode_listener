@@ -120,7 +120,7 @@ class _BarcodeKeyboardListenerState extends State<BarcodeKeyboardListener> {
       String? char = _getCharacterFromEvent(keyEvent);
       _controller.sink.add(char);
     }
-    return true;
+    return false;
   }
 
   @override
