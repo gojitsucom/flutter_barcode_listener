@@ -1,3 +1,5 @@
+## [1.0.1] Fixes numeric virtual keyboard entry
+
 ## [0.1.3] - Fixed Windows support
 
 * Fix for empty scan on Windows
